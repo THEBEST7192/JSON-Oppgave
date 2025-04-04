@@ -4,7 +4,7 @@
     {
       "id": "1",
       "joke": "Where do generals keep their armies? In their sleevies!",
-      "whyHaHa": "A pun playing on the similar pronunciation of 'armies' and 'sleevies' (sleeves). The unexpected answer creates a humorous contrast with the serious military context."
+      "whyHaHa": "A pun playing on the similar pronunciation of 'armies' and 'sleevies' (sleeves)."
     },
     {
       "id": "2",
@@ -19,7 +19,7 @@
     {
       "id": "4",
       "joke": "Why don't you starve in the desert? Because of the sand which is there.",
-      "whyHaHa": "A non sequitur joke with an intentionally nonsensical punchline. The humor comes from the absurdity of suggesting sand as a reason for not starving."
+      "whyHaHa": "A non sequitur joke with an intentionally nonsensical punchline. The humor comes from the absurdity of suggesting sand as a reason for not starving. This is peak comedy btw."
     },
     {
       "id": "5",
@@ -49,12 +49,12 @@
     {
       "id": "10",
       "joke": "Why was 6 afraid of 7? Because 7, 8, 9!",
-      "whyHaHa": "A play on the phrase '7 ate 9' (7 ate 9), which sounds like '7, 8, 9' when spoken quickly. The joke works because it turns a simple counting sequence into a threat."
+      "whyHaHa": "A play on the phrase '7 ate 9' (7 ate 9), which sounds like '7, 8, 9' when spoken quickly."
     },
     {
       "id": "11",
       "joke": "There are only 10 types of people in the world: those who understand binary, and those who don't.",
-      "whyHaHa": "A clever joke that uses binary numbers (10 in binary is 2 in decimal) to create a humorous statement about binary understanding. The joke works because it's both true (in binary) and false (in decimal) at the same time."
+      "whyHaHa": "00110001 00110000 00100000 01101101 01100001 01111001 00100000 01101100 01101111 01101111 01101011 00100000 01101100 01101001 01101011 01100101 00100000 00110001 00110000 00100000 01101001 01101110 00100000 01100100 01100101 01100011 01101001 01101101 01100001 01101100 00100000 01100010 01110101 01110100 00100000 01101001 01110100 00100000 01101001 01110011 00100000 00110010 00100000 01101001 01101110 00100000 01100010 01101001 01101110 01100001 01110010 01111001"
     }
   ]
 }
